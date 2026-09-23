@@ -118,7 +118,7 @@ export default function EntryForm({ onAddEntry, existingNames = [] }) {
       </div>
 
       <button type="submit" className="submit-button">
-        Жазуу кошуу
+        Жазуу
       </button>
 
       {showSuccess && (
